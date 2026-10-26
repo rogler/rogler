@@ -14,7 +14,7 @@ My toolbox after 20+ years in cloud, data integration and enterprise systems.
 
 ## 📊 Business intelligence
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge) ![OBIEE](https://img.shields.io/badge/OBIEE-F80000?style=for-the-badge) ![Data warehousing](https://img.shields.io/badge/Data%20warehousing-1B5E8A?style=for-the-badge) ![Star schema](https://img.shields.io/badge/Star%20schema-0F766E?style=for-the-badge) ![Slowly changing dimensions](https://img.shields.io/badge/Slowly%20changing%20dimensions-0F766E?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge) ![OBIEE](https://img.shields.io/badge/OBIEE-F80000?style=for-the-badge) ![Data warehousing](https://img.shields.io/badge/Data%20warehousing-1B5E8A?style=for-the-badge) ![Star schema](https://img.shields.io/badge/Star%20schema-0F766E?style=for-the-badge)
 
 ## 🏢 Enterprise systems
 
@@ -26,7 +26,7 @@ My toolbox after 20+ years in cloud, data integration and enterprise systems.
 
 ## 🧭 Architecture and delivery
 
-![SOA](https://img.shields.io/badge/SOA-1B5E8A?style=for-the-badge) ![TOGAF](https://img.shields.io/badge/TOGAF-0F766E?style=for-the-badge) ![COBIT](https://img.shields.io/badge/COBIT-0F766E?style=for-the-badge) ![Scrum](https://img.shields.io/badge/Scrum-2E7D32?style=for-the-badge) ![Pre-sales and PoCs](https://img.shields.io/badge/Pre--sales%20and%20PoCs-B45309?style=for-the-badge) ![Technical leadership](https://img.shields.io/badge/Technical%20leadership-7C3AED?style=for-the-badge) ![Training](https://img.shields.io/badge/Training-BE185D?style=for-the-badge)
+![SOA](https://img.shields.io/badge/SOA-1B5E8A?style=for-the-badge) ![TOGAF](https://img.shields.io/badge/TOGAF-0F766E?style=for-the-badge) ![COBIT](https://img.shields.io/badge/COBIT-0F766E?style=for-the-badge) ![Scrum](https://img.shields.io/badge/Scrum-2E7D32?style=for-the-badge) ![Technical leadership](https://img.shields.io/badge/Technical%20leadership-7C3AED?style=for-the-badge) ![Training](https://img.shields.io/badge/Training-BE185D?style=for-the-badge)
 
 ---
 
